@@ -28,5 +28,6 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/a.guindo@gop.link/Téléchargements/h2-2.1.212.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
