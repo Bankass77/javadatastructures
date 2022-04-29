@@ -15,7 +15,7 @@ public class AbstractFactoryDemo {
 			widgetFactory= new MsWindowWidgetFactory();
 		}
 		builder.buildWindow(widgetFactory);
-		System.out.println(widgetFactory.toString());
+		
 	}
 
 }
