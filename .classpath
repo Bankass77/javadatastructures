@@ -29,5 +29,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="/opt/h2/bin/h2-2.1.212.jar"/>
+	<classpathentry kind="lib" path="/home/a.guindo@gop.link/Téléchargements/jsoup-1.14.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
